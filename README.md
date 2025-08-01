@@ -1,6 +1,6 @@
 # 💻 CodeXone - The Ultimate Online IDE with Snippet Sharing
 
-**CodexOne** is a full-fledged online coding platform tailored for developers who want a clean, fast, and feature-rich environment—right in their browser.
+**CodeXone** is a full-fledged online coding platform tailored for developers who want a clean, fast, and feature-rich environment—right in their browser.
 Inspired by the user experience of **Visual Studio Code**, CodexOne allows developers to **write, execute, and share code** effortlessly across multiple programming languages. Whether you're a beginner learning JavaScript or a seasoned developer working with C++, this platform provides a streamlined interface with tools to help you code better and faster.
 
 But CodexOne is more than just an editor.
