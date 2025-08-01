@@ -21,8 +21,6 @@ Whether you're testing quick ideas, sharing reusable code, or simply practicing 
 
 
 
-![CodexOne Screenshot](https://your-screenshot-url.com) <!-- Replace with actual screenshot URL -->
-
 ---
 
 ## ✨ Features
